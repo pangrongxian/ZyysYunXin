@@ -3,7 +3,7 @@ package com.zyys.yunxin;
 /**
  * Created by Administrator on 2016/3/15.
  */
-public class Api {
+public class Api {//
 
 
     public static String hostName = "zy120.ddns.net:8202";
